@@ -1,0 +1,24 @@
+{
+  "balanced141": {
+    "class_id": 0,
+    "confidence": 0.1,
+    "ignore_overlap_threshold": 0.5,
+    "imgsz": 640,
+    "max_det": 1000,
+    "min_box_area": 10.0,
+    "nms_iou": 0.7,
+    "weights_sha256": "6c93e1474fb3690b02b1ec2034b47695ccafab2be7e9ca173f12d4a70966c4e7",
+    "yolov5_source_sha256": "5a05956a0eac557360676efcb6abd1f8c6dea703f0468b572a86defedf40fcf0"
+  },
+  "ua": {
+    "class_id": 0,
+    "confidence": 0.1,
+    "ignore_overlap_threshold": 0.5,
+    "imgsz": 640,
+    "max_det": 1000,
+    "min_box_area": 10.0,
+    "nms_iou": 0.7,
+    "weights_sha256": "a33effa73582b134fd60975c2e002d3e98ac2bcac66f342a959c8d886f1d3598",
+    "yolov5_source_sha256": "5a05956a0eac557360676efcb6abd1f8c6dea703f0468b572a86defedf40fcf0"
+  }
+}

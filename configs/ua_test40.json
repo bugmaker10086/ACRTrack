@@ -1,0 +1,402 @@
+[
+  {
+    "name": "detrac_61_MVI_39031",
+    "frames": 1470,
+    "height": 540,
+    "width": 960,
+    "fps": 25,
+    "gt_sha256": "830170fef546ce24faeb09352537fbf92081630ecc7efb01bfbd70277ede2bcd",
+    "cache_sha256": "b80a1ab74205ee24fd3c20a4632df7fbbdc602a6482fe31646aba5e0f09dab18",
+    "ignore_sha256": "341bfb36106ce6dcda93e5b1b1032e83b32ffa4f4bdb4ad701d1b80928b862e1"
+  },
+  {
+    "name": "detrac_62_MVI_39051",
+    "frames": 1120,
+    "height": 540,
+    "width": 960,
+    "fps": 25,
+    "gt_sha256": "385105bf64b4bcaa93bef26e1886c1d210e3d6f5d17b3fd1f713beb1f5beb4e1",
+    "cache_sha256": "bd9696199048a3d5185fa0f63fe2ca178aa7ad0d7d32147324e4cc4197cf7f1b",
+    "ignore_sha256": "61f70a5446a41ec30a9e3a7c3d7e0c6702b65224d7557cf97fc4d0862e9ee23e"
+  },
+  {
+    "name": "detrac_63_MVI_39211",
+    "frames": 1660,
+    "height": 540,
+    "width": 960,
+    "fps": 25,
+    "gt_sha256": "37dc1b114276cf8de4922ebdd42734911a8d479bced949451bc56d6b338b5913",
+    "cache_sha256": "a9a0932ee025620a256f8c4f0b478c2ee27f0ed8df7a215a5c1b08750514ed8c",
+    "ignore_sha256": "14c2ab463141c3f6ddf340c8a22b7626193441bced3204d33ffc083330091500"
+  },
+  {
+    "name": "detrac_64_MVI_39271",
+    "frames": 1570,
+    "height": 540,
+    "width": 960,
+    "fps": 25,
+    "gt_sha256": "9a4f0bb261509e78118c9a0b9a088b7116d2695011e183862fd49f6071f5fab8",
+    "cache_sha256": "068bb18cabaef6560a9eea075506918211fc10facc898aaff22e181696c75699",
+    "ignore_sha256": "21a33fefb4dafbbb12f2a5df3e0e046fe0f30b7898e044eff4d040cb7fd9828d"
+  },
+  {
+    "name": "detrac_65_MVI_39311",
+    "frames": 1505,
+    "height": 540,
+    "width": 960,
+    "fps": 25,
+    "gt_sha256": "01c020f218e0171bd4f174f5ab107b26cd009bf1baa27b48354429c484a0e096",
+    "cache_sha256": "1ee6e4c4286385f50c56f36dbba3af52fe89b6940b7a2d16c25e68c6b338110d",
+    "ignore_sha256": "25f7ac5a9615d78e708318993127ee473c1b474f7a29e5fa21bb49c3cdef86dd"
+  },
+  {
+    "name": "detrac_66_MVI_39361",
+    "frames": 2030,
+    "height": 540,
+    "width": 960,
+    "fps": 25,
+    "gt_sha256": "43800b2c8791775820eb731da45f8a6e2a576e7afb73ef363a3ea0ff8e4ecf5e",
+    "cache_sha256": "e0bcf2c2c077992352720d35934fc7d079eb19c8a19ce0f79bf6ac037f17bf11",
+    "ignore_sha256": "8848b01e26900dc36d7525044d1c4d28e7558f1025986c509664240c3ca95d45"
+  },
+  {
+    "name": "detrac_67_MVI_39371",
+    "frames": 1390,
+    "height": 540,
+    "width": 960,
+    "fps": 25,
+    "gt_sha256": "677091e0dadb227c07408abad700a33eb3be80c270211e3e51ea1f179255c253",
+    "cache_sha256": "d6aba2b0f1445c13e662b5cdb4a8f156412411bb83da4807f03a38e3165def2c",
+    "ignore_sha256": "7991d24b9f9a0c949ca24df80080471ed68ca9a957ca36aa29080c15e48e36da"
+  },
+  {
+    "name": "detrac_68_MVI_39401",
+    "frames": 1385,
+    "height": 540,
+    "width": 960,
+    "fps": 25,
+    "gt_sha256": "a96b613a79ba6e06c4f9373e7d4c03304d8a5a727caa481aa50f620e1a5028f8",
+    "cache_sha256": "ca0df4e62e14bda6914d3b09593a13ede1ad012c9f84714c7cab1dcd2b8fc907",
+    "ignore_sha256": "e105f3693f7b5bdad26fb26faa3394978618e87a1cf937a108f46440775b6979"
+  },
+  {
+    "name": "detrac_69_MVI_39501",
+    "frames": 540,
+    "height": 540,
+    "width": 960,
+    "fps": 25,
+    "gt_sha256": "f927c119e8f1076a37ead1785fce601c4a8db27e02ea0b01a2ad79ac5a5fc481",
+    "cache_sha256": "3f34c5e342a2588e9a48f11bf00fb3d11797ec7480f38828c5ba5d6aec9b2aac",
+    "ignore_sha256": "68dc2f80a05f8da07509793469c047c52282d426e860610ac1ffd203d2b9a9da"
+  },
+  {
+    "name": "detrac_70_MVI_39511",
+    "frames": 380,
+    "height": 540,
+    "width": 960,
+    "fps": 25,
+    "gt_sha256": "f0845ca5262318e875364b4e6e00117dbbf89963b256a641146cfbdcc4281076",
+    "cache_sha256": "011fc76f9c514f0ceca4eb69a2e56710b56a6e2a056069a164df50ce2ad9780c",
+    "ignore_sha256": "84c5349fc1103898473ac8ebe322f72ed336c7160d02c3981cc5daa74487e794"
+  },
+  {
+    "name": "detrac_71_MVI_40701",
+    "frames": 1130,
+    "height": 540,
+    "width": 960,
+    "fps": 25,
+    "gt_sha256": "267ca354ff9b61dafa3a0975890d5aa34dc936407c2b0cc9dbe911222d42c596",
+    "cache_sha256": "2085706b691202fc2fd8f803722cad37e792212c1c47e8f6f620c5dcaf75fd26",
+    "ignore_sha256": "ef4d4601b4a55087c78ad742f3e526c635f44f95a3e81b621debae0505017145"
+  },
+  {
+    "name": "detrac_72_MVI_40711",
+    "frames": 1030,
+    "height": 540,
+    "width": 960,
+    "fps": 25,
+    "gt_sha256": "cb9613b9a15085674a85f2cce0231bc8ac84398c09b48d3277fd1157b8130312",
+    "cache_sha256": "1f652aebbae9d43a2d84c7f482bbafaf90b35a0c5c40355a273ddaa67386ba49",
+    "ignore_sha256": "fb589d74055b358a7748b6be00254d93fb77d7b7741c95c417c8d65130614328"
+  },
+  {
+    "name": "detrac_73_MVI_40712",
+    "frames": 2400,
+    "height": 540,
+    "width": 960,
+    "fps": 25,
+    "gt_sha256": "dfb3527ca80ffdcbab345f62a7e2c751d4163d86631d82896ca0ee0307dd6868",
+    "cache_sha256": "ad3a34f9d874170ff7015eb5489ac180e663d4c4e2c440a60a1592ca8bcedd8b",
+    "ignore_sha256": "a75f8535bd590cce6535c2b29fc9940a4e1dbd88569f0b4fd08f2487d23c3a3c"
+  },
+  {
+    "name": "detrac_74_MVI_40714",
+    "frames": 1180,
+    "height": 540,
+    "width": 960,
+    "fps": 25,
+    "gt_sha256": "45bb7142198c870d6308c3b7a26df202984e4988dfa1430734de763629dee07c",
+    "cache_sha256": "c986c4a9d12c62c2d48196040fd433045f7c3672cf5e942b1dd7b3d65c9ba61e",
+    "ignore_sha256": "fc6c1b39dd89853d4126e11cfbabf272e85e7988346b6d4e6421f241d6e98fca"
+  },
+  {
+    "name": "detrac_75_MVI_40742",
+    "frames": 1655,
+    "height": 540,
+    "width": 960,
+    "fps": 25,
+    "gt_sha256": "0c26be74340739a3037bab0503dd89e6bb3f63f07129a013af8004041edbfcbc",
+    "cache_sha256": "5af833733f4adec26c53d58e15f1b6a51ed0f6727c1b6391f674c2edc161721e",
+    "ignore_sha256": "74a692ed720dda55a667ec9927627eff2029d17b987a51695596405f4c61eda1"
+  },
+  {
+    "name": "detrac_76_MVI_40743",
+    "frames": 1630,
+    "height": 540,
+    "width": 960,
+    "fps": 25,
+    "gt_sha256": "db74ba50137ff265d83800e384733ff2dc7dfc2de988906ef059fe8517329682",
+    "cache_sha256": "b0821855140db00c375003c3b616be51632ca7399a3da2bc1e5fc8a4b72648f6",
+    "ignore_sha256": "6eee368e3f2798779ad94a7ecf822e644c2a30f7d70182afd1794d08d708d383"
+  },
+  {
+    "name": "detrac_77_MVI_40761",
+    "frames": 2030,
+    "height": 540,
+    "width": 960,
+    "fps": 25,
+    "gt_sha256": "ce919949115f2a4cd8419bdf38a4a517a9c22a2bce1ea1ed4e8193c15597ced7",
+    "cache_sha256": "1ea5225cdf06d05a2fadd4c73c5ed849dec0ca431e441c2b927bc036ba6b1026",
+    "ignore_sha256": "01e9f08346ba5e39caba04739c998f79b8efe880cee0bdfbdd7b129d26deb9ce"
+  },
+  {
+    "name": "detrac_78_MVI_40762",
+    "frames": 1825,
+    "height": 540,
+    "width": 960,
+    "fps": 25,
+    "gt_sha256": "5b1461c54383f126900964e9a778f989ccd3bbbe33471dde75ff3a6e1235c979",
+    "cache_sha256": "0eac40283ac0e0c39beebad6b38f06875ed9b861d880c4b60e636d5ed14c3e37",
+    "ignore_sha256": "939cac737d5564c043a21d9df510fae05a786118404d4aee59c9c0e5a4aa043a"
+  },
+  {
+    "name": "detrac_79_MVI_40763",
+    "frames": 1745,
+    "height": 540,
+    "width": 960,
+    "fps": 25,
+    "gt_sha256": "3cea760444aea214e4982ef3e704d0e237993aebbf82b354265bf6347a93ac66",
+    "cache_sha256": "aa946bc096b3fa687be2230220e51d62f0f8a26bf31323366114e1526ca1705c",
+    "ignore_sha256": "794e8e5d1ea2fd2491a354377cf9161b92bc64f040939a83e76344bf173ddc66"
+  },
+  {
+    "name": "detrac_80_MVI_40771",
+    "frames": 1720,
+    "height": 540,
+    "width": 960,
+    "fps": 25,
+    "gt_sha256": "653b9bdf5d279b41f9a4704ff05148573cad5b7b892e092f8ab2589a505e4d55",
+    "cache_sha256": "3b19c3a0d0d699f9ab14904aee7e8b0681bc010f65409d87e27c413e4d8abbfa",
+    "ignore_sha256": "d6399f6f8bb9441d194fd4f3257b6a997b63414cd0815e6fc9f22a3d0f612187"
+  },
+  {
+    "name": "detrac_81_MVI_40772",
+    "frames": 1200,
+    "height": 540,
+    "width": 960,
+    "fps": 25,
+    "gt_sha256": "d2fbfa14667dd6fbb820b3aa1fbfee05ba4dc207f53fe1a1a8f6285e7517b433",
+    "cache_sha256": "871a53e05b1df5eda6e438cfb8b25665c2880173a65158a3fa58195a6e34bb31",
+    "ignore_sha256": "56109ee4f0616696451f5fa6193ee02aa378c3d4a517dc3d287410f59b043411"
+  },
+  {
+    "name": "detrac_82_MVI_40773",
+    "frames": 985,
+    "height": 540,
+    "width": 960,
+    "fps": 25,
+    "gt_sha256": "9d78acd7db4ad198943b1231bca4f5a52afb31c4105d71820e783d1ad68e43a9",
+    "cache_sha256": "841d824f2b0af2de6dc6229a149000768da590381db2abf07ece7fe5a1e09dfb",
+    "ignore_sha256": "5cab3b05951bff56e6d2ebfdb8ef1384747ce254d9778dea241e6a8bef985710"
+  },
+  {
+    "name": "detrac_83_MVI_40774",
+    "frames": 950,
+    "height": 540,
+    "width": 960,
+    "fps": 25,
+    "gt_sha256": "c78bc90c0882c79201c89b59627c7da144cae49712be3d5cc558a614185b8dc4",
+    "cache_sha256": "af889ff692a490306677b791d0e6b72bac15b1470262462fef2a5b56676ab902",
+    "ignore_sha256": "f6118ce20b9186205e0f184adf35238bebb7922c578dd5f85a35a5a46f7838c3"
+  },
+  {
+    "name": "detrac_84_MVI_40775",
+    "frames": 975,
+    "height": 540,
+    "width": 960,
+    "fps": 25,
+    "gt_sha256": "04b61bf36db5f6b16b88de161daae6c2df2dd9c8c09eabcb1434b85e2e184223",
+    "cache_sha256": "f2fb2aaebde1fa0e99ecc288db092cfdb622f428c072405a341ade34223c9404",
+    "ignore_sha256": "dce01a82d64137640dde65b20fe090e253e38902a5afc3c8a3cdfe0896fd84ce"
+  },
+  {
+    "name": "detrac_85_MVI_40792",
+    "frames": 1810,
+    "height": 540,
+    "width": 960,
+    "fps": 25,
+    "gt_sha256": "f5dc3c9bd553479bf73bd4441015a0e2d145e108a4fd7741a5c7d2dfc7f43934",
+    "cache_sha256": "b4cf8aeb810cb9394361353eb69d843cdd9ca535cc44bdf4da2de439c224e1e4",
+    "ignore_sha256": "deb1b6d1335c6e448a0e23a3b88c492ba66e19c0c2641e5077d1cffcfb8345ae"
+  },
+  {
+    "name": "detrac_86_MVI_40793",
+    "frames": 1960,
+    "height": 540,
+    "width": 960,
+    "fps": 25,
+    "gt_sha256": "e42ee8f5cca6459a2e50dfb01ac16e8f739d36618caf56763878a7c93390a6de",
+    "cache_sha256": "2fe585cfe6cb3684ea7d69944272b7e3c2550aa26aeaed2eeeaf4a9478151bfa",
+    "ignore_sha256": "79be5e314ae343658907617992ac9226c3bafd28c3d1da92b388d57e96274084"
+  },
+  {
+    "name": "detrac_87_MVI_40851",
+    "frames": 1140,
+    "height": 540,
+    "width": 960,
+    "fps": 25,
+    "gt_sha256": "e278d14570d3a25b046b197c3653a0c8554c41754923191b55220e96c720f2fd",
+    "cache_sha256": "c02e8822bc502ac8c5df3b99631145d5b96a8e14f33634e60c5f1d6168579924",
+    "ignore_sha256": "09f32c2d2c040cb602b4092d8176e9a6654496a9fbf56bb6cfc8b0b64a56826d"
+  },
+  {
+    "name": "detrac_88_MVI_40852",
+    "frames": 1150,
+    "height": 540,
+    "width": 960,
+    "fps": 25,
+    "gt_sha256": "acbeb56ecd31353e1502ddcb108f1598aec02a6a67cf70b67c58a54041c91d41",
+    "cache_sha256": "b19ca808b3bae807f58bc75167c0a4bae129b4b0c36de24e79a957d162330b09",
+    "ignore_sha256": "631d4637d7233766f5b177723787771792a5cb64f68e3007a301d075a6aae7ee"
+  },
+  {
+    "name": "detrac_89_MVI_40853",
+    "frames": 1590,
+    "height": 540,
+    "width": 960,
+    "fps": 25,
+    "gt_sha256": "bff513f7bce01b4a7725633c28652ba9a837e38273121db4675fe6ff6af81087",
+    "cache_sha256": "ac8e0a0c3cf1da63616369f01ee3e58b63ae6e29d4d99fae0098a5dc4daa3fde",
+    "ignore_sha256": "ea2b92d3196ca6bd4ededfa21b028509325229e6184ead1abd37b0b6539d791f"
+  },
+  {
+    "name": "detrac_90_MVI_40854",
+    "frames": 1195,
+    "height": 540,
+    "width": 960,
+    "fps": 25,
+    "gt_sha256": "2b6d8fdac583dc14b0e711b1396aac87209d4e8f5d4af763dc9977a5c0d110df",
+    "cache_sha256": "21da32f87830caa9385e7e2c98c36c45a07508cbc7597e6aeaaa595aee19bf94",
+    "ignore_sha256": "337275aed22c4f95f6c8175f649d615e9a8dbdde28cbf82d0b4fd403018570e8"
+  },
+  {
+    "name": "detrac_91_MVI_40855",
+    "frames": 1090,
+    "height": 540,
+    "width": 960,
+    "fps": 25,
+    "gt_sha256": "8839eea7c8ceeca69990bf753500123dfcacbaf3b39f2b431ac949c3729d36df",
+    "cache_sha256": "184e29154eb68f9a7c626c94ef1ed44d75592f426b58e0de82e9d052692302af",
+    "ignore_sha256": "881a04fab19c54fb2f6c229e401cca37de5c426aa4f419d708483593aeeb0a2a"
+  },
+  {
+    "name": "detrac_92_MVI_40863",
+    "frames": 1670,
+    "height": 540,
+    "width": 960,
+    "fps": 25,
+    "gt_sha256": "e24aa0351136cae99a5cddf5b4504985d591200ca55857c77871ad81a86488e7",
+    "cache_sha256": "e4381bf7d6c0e2a0ed1733fe550335dcd6b3be61b7ec83766930c9a922ab93a8",
+    "ignore_sha256": "01423c34a7cb912e85be703f8e3a4481f8fca088b0e035851eccaa00375745b4"
+  },
+  {
+    "name": "detrac_93_MVI_40864",
+    "frames": 1515,
+    "height": 540,
+    "width": 960,
+    "fps": 25,
+    "gt_sha256": "ae854557e52a5ef614b387b5a469d559a900a0fbae4723f3e9932a1457067624",
+    "cache_sha256": "2d65b9d0b2d6e9e43c7fae49e4d644c8b242312b565431c5c54592aedb0d6d99",
+    "ignore_sha256": "42b5034935e24322cae0cdf7a27f7d219a87c89727eb7f1bfa38caaf1f7268cf"
+  },
+  {
+    "name": "detrac_94_MVI_40891",
+    "frames": 1545,
+    "height": 540,
+    "width": 960,
+    "fps": 25,
+    "gt_sha256": "727c2c0a9109be86485977d3246266e1f57cb152b86a5d5f06b25daf5110fddb",
+    "cache_sha256": "9c61f41d7b90c17c115c743beaa913664b8dc785f70c420d8e4ddf61f3066e1f",
+    "ignore_sha256": "7be6174cf84be97e69b1918588c0f3254297f8a1711c154d1665917bf8bef6b2"
+  },
+  {
+    "name": "detrac_95_MVI_40892",
+    "frames": 1790,
+    "height": 540,
+    "width": 960,
+    "fps": 25,
+    "gt_sha256": "ab4d2f1c4846f42996cd48ddee0f80a70290543eedc588f0e2da9ccf07e663e3",
+    "cache_sha256": "c49453d20c6a40df9b74e707b9073d2cd42c9b0fd9dc4663a36720548277a69a",
+    "ignore_sha256": "50af382bbb434d4f63a6648fa48a07d5afc2aeaf648e3f2a76e6e83587e11e52"
+  },
+  {
+    "name": "detrac_96_MVI_40901",
+    "frames": 1335,
+    "height": 540,
+    "width": 960,
+    "fps": 25,
+    "gt_sha256": "212aa681678daaaf8bb1d2cd80d88add89c5c457cc2a34e50dda3537ec38382d",
+    "cache_sha256": "a92f00273923b32a08c4657d85ff05af237fcf91baff26f177e346941f6a864d",
+    "ignore_sha256": "806e53c352a37a94ea86d181e7d1734f703bc7fe1d2a62104ae95c72ac3004f6"
+  },
+  {
+    "name": "detrac_97_MVI_40902",
+    "frames": 1005,
+    "height": 540,
+    "width": 960,
+    "fps": 25,
+    "gt_sha256": "0dabd6238841cf8fe3e325a70d5451a316a7dff9c68bb86e4ffe5243526925f1",
+    "cache_sha256": "f08778df4e09f7157e09c213aa6e6eb20f0d4a60042797a8b68ad8ced0f19bfa",
+    "ignore_sha256": "2a420c5bf524459ff2d7795632f858eb9e7bb9fe1f4ed4613592af13f87844a4"
+  },
+  {
+    "name": "detrac_98_MVI_40903",
+    "frames": 1060,
+    "height": 540,
+    "width": 960,
+    "fps": 25,
+    "gt_sha256": "bf895b412228a32a181ba750df88d025afe38c61b47dc72d04243d779d013591",
+    "cache_sha256": "28f9494f684f917e6e7401242a5e5fc505a253135dbf2a59be5cb192c8569248",
+    "ignore_sha256": "7369c8d54b03c6414212bb651cfef15c5a5c1bfd28a62bd146437dba99d83ba6"
+  },
+  {
+    "name": "detrac_99_MVI_40904",
+    "frames": 1270,
+    "height": 540,
+    "width": 960,
+    "fps": 25,
+    "gt_sha256": "04d5db6a674dbfc9aa548129fb1d22a39d2ddac549c080c244b86a3653d86da3",
+    "cache_sha256": "abf49ea3b4b9fd539f3674415e8ce0f026e4fa9ecbe36905d994bb3546469906",
+    "ignore_sha256": "c98a26a47ce41292970b39f3dd28b46dab8dff0278165777e34ec93b0d0ad276"
+  },
+  {
+    "name": "detrac_100_MVI_40905",
+    "frames": 1710,
+    "height": 540,
+    "width": 960,
+    "fps": 25,
+    "gt_sha256": "bd1f0137c6140c1280cd08086565828e5d126243c68db96069050a3eea7abb5c",
+    "cache_sha256": "e6f4ef6e77887de8dd4cf07c4850dd162d0668e08cf2e1b814651941ed48afa5",
+    "ignore_sha256": "553171c8a6e0d7e76b2eedd936c403d4769471ca4b1f0d514fdd78154eee2477"
+  }
+]

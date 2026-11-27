@@ -1,0 +1,4 @@
+# Tracking and evaluation environment (CPython 3.12).
+numpy==2.4.6
+scipy==1.17.1
+lap==0.5.13
